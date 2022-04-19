@@ -20,7 +20,7 @@
 127.0.0.1       localhost
 ::1             localhost
 #-iris-For development machine, you have to configure your dns also for online, search google how to do it if you don't know
-
+127.0.0.1 activate.navicat.com
 127.0.0.1		caselocal.test
 127.0.0.1		caseonline.test
 
